@@ -1,29 +1,26 @@
-# 🦁 Pine City Zoo Website
+# Pine City Zoo
 
-The Pine City Zoo website is a static website created to provide information about a zoo, its animals, attractions, and visitor locations.  
-The project demonstrates basic web development using HTML and CSS and is hosted using GitHub Pages.
+## Description
+This is a simple and informative website for Pine City Zoo. The website allows users to explore information about zoo animals, attractions, and locations within the zoo. It is designed to be easy to navigate and visually engaging.
 
----
+## Features
+- View different zoo animals
+- Explore places and attractions in the zoo
+- Access a zoo map
+- Clean and user-friendly layout
 
-## 📌 Project Overview
+## Tools & Technologies
+- HTML
+- CSS
+- GitHub Pages
 
-This website includes multiple pages that allow users to explore:
-- Zoo animals
-- Places and attractions
-- A zoo map
-- General visitor information
+## How to Use
+1. Open the website in a web browser.
+2. Navigate through the pages using the menu links.
+3. View animal information, places, and the zoo map.
 
-It is designed as a beginner web development project.
+## Purpose of the Project
+This project was created to demonstrate basic web development skills using HTML and CSS, as well as to practice organizing website files and deploying a site using GitHub Pages.
 
----
-
-## 🛠️ Technologies Used
-
-- HTML5  
-- CSS3  
-- GitHub Pages  
-
----
-
-## 📂 Project Structure
-
+## Author
+Katlego Charmaine Koza
